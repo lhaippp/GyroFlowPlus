@@ -2,9 +2,14 @@
 [Haipeng Li](https://lhaippp.github.io/), [Kunming Luo](https://coolbeam.github.io/index.html), [Bing Zeng](https://scholar.google.com.hk/citations?user=4y0QncgAAAAJ&hl=zh-CN), [Shuaicheng Liu](http://www.liushuaicheng.org/)
 
 ## GHOF Dataset
-Benchmark consists of GHOF-Clean and GHOF-Final is available at [GoogleDrive]( https://drive.google.com/drive/folders/1Un1rK777AEuz1tT3MJ7OTgZt2PHtIwRW?usp=sharing)
+- Benchmark consists of GHOF-Clean and GHOF-Final is available at [GoogleDrive]( https://drive.google.com/drive/folders/1Un1rK777AEuz1tT3MJ7OTgZt2PHtIwRW?usp=sharing)
+- Download the two BMKs and put to root path
+
+## Test Demo
+`python test.py --model_dir experiments/ --restore_file experiments/step_418600_homo.pth`
 
 ## Citation
+
 ```
 @inproceedings{li2021gyroflow,
   title={Gyroflow: gyroscope-guided unsupervised optical flow learning},
