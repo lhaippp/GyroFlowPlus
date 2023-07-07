@@ -6,12 +6,18 @@ Benchmark consists of GHOF-Clean and GHOF-Final is available at [GoogleDrive]( h
 
 ## Citation
 ```
-@misc{li2023gyroflow,
-      title={GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning}, 
-      author={Haipeng Li and Kunming Luo and Bing Zeng and Shuaicheng Liu},
-      year={2023},
-      eprint={2301.10018},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{li2021gyroflow,
+  title={Gyroflow: gyroscope-guided unsupervised optical flow learning},
+  author={Li, Haipeng and Luo, Kunming and Liu, Shuaicheng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={12869--12878},
+  year={2021}
+}
+
+@article{li2023gyroflow+,
+  title={GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning},
+  author={Li, Haipeng and Luo, Kunming and Zeng, Bing and Liu, Shuaicheng},
+  journal={arXiv preprint arXiv:2301.10018},
+  year={2023}
 }
 ```
