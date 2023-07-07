@@ -6,6 +6,8 @@
 - Download the two BMKs and put to root path
 
 ## Test Demo
+- Download pretrain model [step_418600_homo](https://drive.google.com/drive/folders/1Un1rK777AEuz1tT3MJ7OTgZt2PHtIwRW?usp=sharing) into experiments
+
 `python test.py --model_dir experiments/ --restore_file experiments/step_418600_homo.pth`
 
 ## Citation
