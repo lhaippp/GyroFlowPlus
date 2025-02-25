@@ -1,6 +1,12 @@
 # GyroFlow+: Gyroscope-Guided Unsupervised Deep Homography and Optical Flow Learning
 [Haipeng Li](https://lhaippp.github.io/), [Kunming Luo](https://coolbeam.github.io/index.html), [Bing Zeng](https://scholar.google.com.hk/citations?user=4y0QncgAAAAJ&hl=zh-CN), [Shuaicheng Liu](http://www.liushuaicheng.org/)
 
+## Manuscript
+[Online Version](https://link.springer.com/article/10.1007/s11263-023-01978-5)
+
+[Author Version](https://github.com/user-attachments/files/18960206/s11263-023-01978-5.2.pdf)
+
+
 ## GHOF Dataset
 - For Trainset, the download link is [GoogleDrive](https://drive.google.com/file/d/1duHQBIWLOPHd5LxBBLpsy6-3FAg_kqNp/view?usp=sharing). Put the data into `./dataset/GHOF_Train`, and the contents of directories are as follows:
 
